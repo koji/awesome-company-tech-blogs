@@ -1,4 +1,4 @@
-# awesome-tech-blogs
+# awesome-company-tech-blogs
 
 ### A
 Airbnb https://medium.com/airbnb-engineering  
